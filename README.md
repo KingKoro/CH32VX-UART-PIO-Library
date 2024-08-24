@@ -1,5 +1,5 @@
 # CH32VX UART PIO Library
-This repository contains a CH32Vx/CH32X0x PIO NoneOS library for serial communication over UART ports. It is supposed to work with CH32V10X, CH32V20X, CH32V30X, CH32X033 and CH32X035 MCUs.
+This repository contains a CH32Vx/CH32X0x PIO NoneOS library for serial communication over UART ports. It is supposed to work with CH32V00X, CH32V10X, CH32V20X, CH32V30X, CH32X033 and CH32X035 MCUs.
 
 # Warning
 Due to issues with stdlib's ftoa and atof functions, this repository comes with an additional library ``CH32V_FTOA_ATOF`` to implement these conversions correctly.
