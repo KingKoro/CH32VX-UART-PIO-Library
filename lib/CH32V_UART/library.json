@@ -3,6 +3,11 @@
     "version": "0.1.0",
     "description": "A library communicating via UART on CH32V/X MCUs.",
     "keywords": "ch32v, uart, usart, serial, printf, scanf",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/KingKoro/CH32VX-UART-PIO-Library.git"
+    },
     "authors":
     {
         "name": "Florian Korotschenko",

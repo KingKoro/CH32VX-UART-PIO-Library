@@ -22,7 +22,7 @@
  *  THE SOFTWARE.
  *
  *
- *  file         : ch32v_ftoa_atof.h
+ *  file         : ch32v_ftoa_atof.c
  *  description  : ftoa atof library main code
  *
  */
